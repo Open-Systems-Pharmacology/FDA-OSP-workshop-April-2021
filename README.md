@@ -1,4 +1,4 @@
-# FDA OSP training (April 2021)
+# FDA OSP workshop (April 2021)
 
 ## Session 1: Introduction to PK-Sim
 Recommended for new users of PK-Sim as well as to anyone who needs to revive or complement existing knowledge about OSP.
